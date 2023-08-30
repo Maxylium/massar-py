@@ -17,8 +17,10 @@ pip install requirements.txt
 
 -This fork of the script adds the ability to save your credentials to a creds.txt file, just create the file and add:
 
-`username=(your username)
-password=(your password)`
+```
+username=(your username)
+
+password=(your password)```
 
 ## To Do List
 - [ ] support the [waliye website](https://massarservice.men.gov.ma/waliye/Account).
